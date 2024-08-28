@@ -1,5 +1,5 @@
 ## Connect with me
-- [LinkedIn]({{ site.social.linkedin }})
+- [LinkedIn](www.linkedin.com/in/peter-sullivan)
 - [Email]({{ site.social.email }})
 
 <img src="bio_pic.jpg"  width="300" height="300">
