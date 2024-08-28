@@ -1,3 +1,4 @@
+## Peter Sullivan
 <img src="bio_pic.jpg"  width="300" height="300">
 
 ## Education
