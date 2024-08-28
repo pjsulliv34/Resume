@@ -13,7 +13,7 @@
 
 ## Professional Experience
 
-### City of San Diego
+### <span style="color:blue">City of San Diego</span>
 **Data Engineer Program Coordinator**  
 *January 2023 – Present, San Diego*  
 - Utilize Python, Apache Airflow, Snowflake, Pandas, AWS, Docker, and Git to design and automate ETL processes, facilitating smooth data integration and transformation for Development Services Department projects.
@@ -21,7 +21,7 @@
 - Spearhead comprehensive data analysis and visualization efforts, collaborating with city planners and stakeholders to drive evidence-based decision-making and optimize resource allocation.
 - Implement proactive data quality measures and monitoring frameworks to ensure the accuracy and reliability of city datasets, supporting informed policy formulation and infrastructure planning.
 
-### National Grid
+### <span style="color:blue">National Grid</span>
 **Data Engineer, Technical Delivery**  
 *November 2022 – January 2024, Waltham, MA*  
 - Proficiently employ Python, SQL, PySpark, Databricks, Azure, and Snowflake to design and automate ETL processes, enabling seamless data integration and transformation.
@@ -41,7 +41,7 @@
 - Lead monthly meetings with internal and external stakeholders to monitor current projects.
 - Lead engineering analysis to manage and organize resources to ensure that work is carried out efficiently and in line with relevant policies and processes. Test and challenge existing procedures and highlight areas for improvement to ensure they are robust.
 
-### TRC Companies (formerly Lockheed Martin Distributed Energy Solutions)
+### ### <span style="color:blue">TRC Companies (formerly Lockheed Martin Distributed Energy Solutions)</span>
 **Energy Efficiency Field Representative**  
 *September 2016 – July 2020*  
 - Utilized VBA and Excel to create a new and more efficient process to analyze, prep, and visualize sales data.
