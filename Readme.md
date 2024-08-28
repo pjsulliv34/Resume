@@ -41,7 +41,7 @@
 - Lead monthly meetings with internal and external stakeholders to monitor current projects.
 - Lead engineering analysis to manage and organize resources to ensure that work is carried out efficiently and in line with relevant policies and processes. Test and challenge existing procedures and highlight areas for improvement to ensure they are robust.
 
-### ### <span style="color:blue">TRC Companies (formerly Lockheed Martin Distributed Energy Solutions)</span>
+### <span style="color:blue">TRC Companies (formerly Lockheed Martin Distributed Energy Solutions)</span>
 **Energy Efficiency Field Representative**  
 *September 2016 – July 2020*  
 - Utilized VBA and Excel to create a new and more efficient process to analyze, prep, and visualize sales data.
