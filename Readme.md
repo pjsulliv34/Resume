@@ -40,6 +40,12 @@
 - Lead monthly meetings with internal and external stakeholders to monitor current projects.
 - Lead engineering analysis to manage and organize resources to ensure that work is carried out efficiently and in line with relevant policies and processes. Test and challenge existing procedures and highlight areas for improvement to ensure they are robust.
 
+### TRC Companies (formerly Lockheed Martin Distributed Energy Solutions)
+**Energy Efficiency Field Representative**  
+*September 2016 – July 2020*  
+- Utilized VBA and Excel to create a new and more efficient process to analyze, prep, and visualize sales data.
+- Built relationships with retailers and their staff about the Northeast Regional ENERGY STAR Consumer Products Initiative and energy-efficient lighting and products.
+
 ## Technical Skills
 - **ETL Processing:** Airflow, Python, Pandas, PySpark, Databricks, SQL, Docker, Snowflake
 - **Data Analysis & Visualization:** Python, R, Power BI, Oracle SQL Developer, Alteryx, Advanced MS Excel, Power Query, ArcGIS, Tableau
