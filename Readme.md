@@ -1,3 +1,7 @@
+## Connect with me
+- [LinkedIn]({{ site.social.linkedin }})
+- [Email]({{ site.social.email }})
+
 <img src="bio_pic.jpg"  width="300" height="300">
 
 ## Education
