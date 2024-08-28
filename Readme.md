@@ -1,5 +1,7 @@
 # Peter Sullivan
 
+![](bio_pic.jpg)
+
 ## Education
 - **Master of Business Administration** – University of Massachusetts Amherst  
 - **Advanced Certificate in Data Analytics and Computational Social Science** – University of Massachusetts Amherst  
