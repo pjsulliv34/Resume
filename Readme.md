@@ -1,3 +1,5 @@
+<title>Peter Sullivan</title>
+
 ## Connect with me
 - [LinkedIn](http://linkedin.com/in/peter-sullivan)
 - [Email](mailto:your.pjsulliv34@gmail.com)
