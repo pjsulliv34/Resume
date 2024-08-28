@@ -3,6 +3,7 @@
 - [Email](mailto:your.pjsulliv34@gmail.com)
 
 <img src="bio_pic.jpg"  width="300" height="300">
+<link rel="stylesheet" href="{{ 'custom.css' | (http://linkedin.com/in/peter-sullivan) }}">
 
 ## Education
 - **Master of Business Administration** – University of Massachusetts Amherst  
