@@ -1,6 +1,6 @@
 ## Connect with me
 - [LinkedIn](www.linkedin.com/in/peter-sullivan)
-- [Email]({{ site.social.email }})
+- [Email](mailto:your.pjsulliv34@gmail.com)
 
 <img src="bio_pic.jpg"  width="300" height="300">
 
