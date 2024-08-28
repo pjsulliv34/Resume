@@ -1,4 +1,8 @@
 title: Peter Sullivan
 description: Data Engineer at the City of San Diego
 theme: jekyll-theme-tactile
+output:
+  html_document:
+    css: custom.css
+  
 
