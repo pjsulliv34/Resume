@@ -2,7 +2,7 @@
 
 ## Connect with me
 - [LinkedIn](http://linkedin.com/in/peter-sullivan)
-- [Email](mailto:your.pjsulliv34@gmail.com)
+- [Email](mailto:pjsulliv34@gmail.com)
 
 <img src="bio_pic.jpg"  width="300" height="300">
 <link rel="stylesheet" href="{{ 'custom.css' | (http://linkedin.com/in/peter-sullivan) }}">
