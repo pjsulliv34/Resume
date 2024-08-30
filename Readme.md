@@ -1,15 +1,27 @@
 <title>Peter Sullivan</title>
 <img src="bio_pic.jpg"  width="300" height="300">
 
-## Github Repos
-- [Data Structures and Algorithms](https://github.com/pjsulliv34/DataStructures_Algo)
-- [Python Essentials](https://github.com/pjsulliv34/Python-Core)
-- [R Essentials](https://github.com/pjsulliv34/R-Core)
-- [Data Science Fundamentals](https://github.com/pjsulliv34/R-Data-Science-Fundamentals)
+<table>
+<tr>
+  <td>
+    <h2>Connect With Me</h2>
+    <ul>
+      <li><a href="http://linkedin.com/in/peter-sullivan">LinkedIn</a></li>
+      <li><a href="mailto:pjsulliv34@gmail.com">Email</a></li>
+    </ul>
+  </td>
+  <td>
+    <h2>Github Repos</h2>
+    <ul>
+      <li><a href="https://github.com/pjsulliv34/DataStructures_Algo">Data Structures and Algorithms</a></li>
+      <li><a href="https://github.com/pjsulliv34/Python-Core">Python Essentials</a></li>
+      <li><a href="https://github.com/pjsulliv34/R-Core">R Essentials</a></li>
+      <li><a href="https://github.com/pjsulliv34/R-Data-Science-Fundamentals">Data Science Fundamentals</a></li>
+    </ul>
+  </td>
+</tr>
+</table>
 
-## Connect With Me
-- [LinkedIn](http://linkedin.com/in/peter-sullivan)
-- [Email](mailto:pjsulliv34@gmail.com)
 
 <link rel="stylesheet" href="{{ 'custom.css' | (http://linkedin.com/in/peter-sullivan) }}">
 
