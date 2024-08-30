@@ -3,16 +3,16 @@
 
 <table>
 <tr>
-  <td>
+  <td style="vertical-align: top; text-align: left;">
     <h2>Connect With Me</h2>
-    <ul>
+    <ul style="list-style-type: disc; padding-left: 20px;">
       <li><a href="http://linkedin.com/in/peter-sullivan">LinkedIn</a></li>
       <li><a href="mailto:pjsulliv34@gmail.com">Email</a></li>
     </ul>
   </td>
-  <td>
+  <td style="vertical-align: top; text-align: left;">
     <h2>Github Repos</h2>
-    <ul>
+    <ul style="list-style-type: disc; padding-left: 20px;">
       <li><a href="https://github.com/pjsulliv34/DataStructures_Algo">Data Structures and Algorithms</a></li>
       <li><a href="https://github.com/pjsulliv34/Python-Core">Python Essentials</a></li>
       <li><a href="https://github.com/pjsulliv34/R-Core">R Essentials</a></li>
@@ -21,7 +21,6 @@
   </td>
 </tr>
 </table>
-
 
 <link rel="stylesheet" href="{{ 'custom.css' | (http://linkedin.com/in/peter-sullivan) }}">
 
