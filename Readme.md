@@ -1,14 +1,16 @@
 <title>Peter Sullivan</title>
+<img src="bio_pic.jpg"  width="300" height="300">
+
 ## Github Repos
 - [Data Structures and Algorithms](https://github.com/pjsulliv34/DataStructures_Algo)
 - [Python Essentials](https://github.com/pjsulliv34/Python-Core)
 - [R Essentials](https://github.com/pjsulliv34/R-Core)
 - [Data Science Fundamentals](https://github.com/pjsulliv34/R-Data-Science-Fundamentals)
-## Connect with me
+
+## Connect With Me
 - [LinkedIn](http://linkedin.com/in/peter-sullivan)
 - [Email](mailto:pjsulliv34@gmail.com)
 
-<img src="bio_pic.jpg"  width="300" height="300">
 <link rel="stylesheet" href="{{ 'custom.css' | (http://linkedin.com/in/peter-sullivan) }}">
 
 ## Education
